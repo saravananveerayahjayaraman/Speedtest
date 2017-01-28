@@ -1,0 +1,2 @@
+plymouth
+cmdline.txt - splash logo.nologo quiet
