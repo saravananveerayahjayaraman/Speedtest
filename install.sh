@@ -1,5 +1,5 @@
 #! /bin/sh
-echo Installing Dewhirst Splash For Appliance
+echo Installing Dewhirst Splash For Speedtest Appliance
 echo ========================================
 wget https://raw.githubusercontent.com/vjsaravanan/Speedtest/master/splash.mov
 wget https://raw.githubusercontent.com/vjsaravanan/Speedtest/master/splash.png
